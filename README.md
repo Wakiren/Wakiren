@@ -1,5 +1,11 @@
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,unity,gamemakerstudio,github,ai,ps&perline=8)](https://skillicons.dev)
 
+
+
+<p align="center">
+  
+<img src = "https://skillicons.dev/icons?i=c,cs,cpp,unity,gamemakerstudio,github,ai,ps&perline=8">
+
+</p>
 
 
 <!--
