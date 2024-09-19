@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,unity,gamemakerstudio,github,ai,ps&perline=8)](https://skillicons.dev)
 
 
 
